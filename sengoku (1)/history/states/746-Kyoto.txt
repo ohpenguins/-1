@@ -1,0 +1,38 @@
+
+state={
+	id=746
+	name="Kyoto" # Kyoto"
+	manpower = 3027739
+	
+	state_category = metropolis
+
+	history={
+		owner = ASI
+		victory_points = { 11960 25 }
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+		add_core_of = ASI
+	
+		set_demilitarized_zone = yes
+		
+		1554.12.7 = {
+			set_demilitarized_zone = no
+		}
+
+		1939.1.1 ={
+			buildings = {
+				radar_station = 1
+				synthetic_refinery = 3
+			}
+		}
+	}
+
+	provinces={
+		11960
+	}
+	
+	
+}

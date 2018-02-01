@@ -1,0 +1,36 @@
+
+state={
+	id=750
+	name="Kaga" # Kaga
+	manpower = 11015000
+	state_category = metropolis
+	resources={
+		aluminium=6
+	}
+
+	history={
+		owner = IKO
+		add_core_of = IKO
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 4
+			dockyard = 2
+
+		}
+		victory_points = {
+			4142 25
+		}
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+				industrial_complex = 5
+			}
+		}
+
+	}
+
+	provinces={
+		10032 998
+	}
+}

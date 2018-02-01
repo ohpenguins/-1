@@ -1,0 +1,116 @@
+ideas = {
+
+	country = {
+		ODA_owarino_baka = {
+			
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.15
+				unity_factor = -0.15
+			}
+		}
+        
+		ODA_divided_japan = {
+			
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = -0.03
+			}
+		}
+
+		ODA_power_struggle = {
+			
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.3
+			}
+		}
+		
+		ODA_danger_of_imagawa = {
+			
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.5
+				industrial_capacity_factory  = -0.3
+				industrial_capacity_dockyard = -0.3
+				unity_factor = -0.3
+			}
+		}
+
+		ODA_grate_geniuses = {
+			
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = 0.5
+			}
+		}
+
+		ODA_danger_of_haguksang = {
+			
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.55
+			}
+		}
+	}
+}

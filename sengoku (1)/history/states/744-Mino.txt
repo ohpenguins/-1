@@ -1,0 +1,34 @@
+
+state={
+	id=744
+	name="Mino" # Mino
+	manpower = 6174000
+	state_category = large_city
+
+	history={
+		owner = DOS
+		add_core_of = DOS
+		buildings = {
+			infrastructure = 10
+			arms_factory = 10
+			dockyard = 5
+			industrial_complex = 10
+		}
+		
+		victory_points = {
+			4172 25 
+		}
+		
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+				industrial_complex = 3
+			}
+		}
+
+	}
+
+	provinces={
+		4172 7187
+	}
+}
